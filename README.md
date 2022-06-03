@@ -26,3 +26,15 @@ Cosas
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
+<<<<<<< HEAD
+=======
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   |
+>>>>>>> 08b0c1a (test2)
