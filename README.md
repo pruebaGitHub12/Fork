@@ -23,7 +23,7 @@ Cosas
 |Juan Antonio   |ja892   |   |cosa   |cosa2   |
 |Prueba   |j131   |j131   |cosa   |  prueba|
 |Prueba   |j131   |j131   |cosa   |   |
-|Prueba   |j131   |j131   |cosa   |   |
+|Prueba   |j131   |j131   |cosa   |   prueba|
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
