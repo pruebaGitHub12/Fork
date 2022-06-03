@@ -1,8 +1,8 @@
 # Fork
 Cosas
-|Nombre   |Nick   |Pagina   |   |   |
+|Nombre   |Nick   |Pagina   |Cosa   |Cosa 2   |
 |---|---|---|---|---|
 |Antonio   |aca062   |aca062.com   |   |   |
-|Pedro   |p234   |p234.com   |   |   |
-|Juan   |j131   |   |   |   |
-|Juan Antonio   |ja892   |   |   |   |
+|Pedro   |p234   |p234.com   |cosa   |   |
+|Juan   |j131   |j131   |cosa   |   |
+|Juan Antonio   |ja892   |   |cosa   |cosa2   |
