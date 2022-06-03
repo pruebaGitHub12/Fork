@@ -8,7 +8,7 @@ Cosas
 |Juan Antonio   |ja892   |   |cosa   |cosa2   |
 |Pedro   |p234   |p234.com   |cosa   |   |
 |Juan   |j131   |j131   |cosa   |   |
-|Juan Antonio   |ja892   |   |cosa   |cosa2   |
+|Juan Antonio   |ja892   |cosa   |cosa   |cosa2   |
 |Pedro   |p234   |p234.com   |cosa   |   |
 |Juan   |j131   |j131   |cosa   |   |
 |Juan Antonio   |ja892   |   |cosa   |cosa2   |
