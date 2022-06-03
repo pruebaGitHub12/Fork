@@ -24,7 +24,11 @@ Prueba
 |Juan Antonio   |ja892   |   |cosa   |cosa2   |
 |Prueba   |j131   |j131   |cosa   |  prueba|
 |Prueba   |j131   |j131   |cosa   |   |
+<<<<<<< HEAD
 |Prueba   |j131   |j131   |cosa   |   prueba|
+=======
+|Prueba   |j131   |j131   |cosa   |   |
+>>>>>>> 8faf6d8 (prueba)
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
 |Prueba   |j131   |j131   |cosa   |   |
